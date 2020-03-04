@@ -1,0 +1,9 @@
+{
+  "name": "New York",
+  "country": "United States of America",
+  "region": "New York",
+  "lat": "40.714",
+  "lon": "-74.006",
+  "timezone_id": "America\/New_York",
+  "utc_offset": "-5.0"
+}

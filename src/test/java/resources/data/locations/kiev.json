@@ -1,0 +1,9 @@
+{
+  "name": "Kiev",
+  "country": "Ukraine",
+  "region": "Kyyivs'ka Oblast'",
+  "lat": "50.433",
+  "lon": "30.517",
+  "timezone_id": "Europe/Kiev",
+  "utc_offset": "2.0"
+}
